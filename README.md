@@ -12,7 +12,8 @@
   - [**Web Development**](#web-dev)
   - [**System Administration**](#sys-admin)
   - [**Development**](#devs)
-  - [Others](#others)
+  - [**J2EE - Java 2 Enterprise Edition**](#j2ee)
+  - [**Mathematics & Others**](#others)
 
 ---
 
@@ -35,6 +36,8 @@
 - **Task Runners**
 - **Configuration Files**
 - **ORM**
+- **Callbacks**
+- **Language, Locale, Encoding**
 
 ---
 
@@ -103,9 +106,20 @@
 
 ---
 
+<a name="j2ee">
+## J2EE - Java 2 Enterprise Edition
+
+- **TOMCAT**
+- **Spring Framework**
+- **Message Passing**
+- **ORM Hibernate**
+- **Reverse Proxy**
+
+---
+
 <a name="others"></a>
 
-## Others
+## Mathematics & Others
 
 - **Calculus / Linear Algebra**
 - **DirectX/OpenGL**
@@ -113,5 +127,7 @@
 - **Hardware Interfacing**
 - **Data Science**
 - **Probability**
+- **Typing**
+- **Presentation Skills**
 
 ---
