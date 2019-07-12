@@ -88,6 +88,8 @@
 - **Docker**
 - **Proftpd**
 - **Ansible**
+- **MySQL Client-Server Application**
+- **Reverse Proxy**
 - **Security**
 
 ---
@@ -141,3 +143,5 @@
 - **Presentation Skills**
 
 ---
+
+This repository is maintained by ![Nauman Afsar](https://nomispeaks.wordpress.com) with ❣️
