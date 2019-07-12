@@ -7,9 +7,12 @@
 <a name="contents"></a>
 
 - [Programming Concepts](#programming-skills)
-- [Things to Know](#things-to-know)
-  - [Programming Languages](#languages)
+- Things to Know
+  - [Programming & Markup Languages](#languages)
   - [Web Development](#web-dev)
+  - [System Administration](#sys-admin)
+  - [Development](#devs)
+  - [Others](#others)
 
 ---
 
@@ -31,12 +34,13 @@
 - **Wrappers**
 - **Task Runners**
 - **Configuration Files**
+- **ORM**
 
 ---
 
-## :diamond_shape_with_a_dot_inside: Programming Languages:
-
 <a name="languages"></a>
+
+## :diamond_shape_with_a_dot_inside: Programming & Markup Languages:
 
 - **Java**
 - **Python**
@@ -49,35 +53,64 @@
 - **TypeScript**
 - **LaTeX**
 
-## Web Development
+---
 
 <a name="web-dev"></a>
 
+## :diamond_shape_with_a_dot_inside: Web Development
+
 - **NodeJS**
 - **WordPress**
+- **Cake PHP/ Laravel/ Django**
+- **Full Stack**
 - **Oracle**
 - **Redis**
-- **Photoshop**
+- **Rest**
+
+---
+
+<a name="sys-admin"></a>
+
+## :diamond_shape_with_a_dot_inside: System Administration
+
 - **Linux**
 - **Git, SVN, VCS**
 - **SSH**
+- **Cloud Computing (AWS)**
 - **Security**
-- **Cake PHP/ Laravel/ Django**
+
+---
+
+<a name="devs"></a>
+
+## Development
+
+- **Game Development**
+- **Android Development**
+- **IOS Development**
+- **Cordova**
+- **Jinja 2**
+
+---
+
+<a name="Designing"></a>
+
+## Designing
+
+- **3D Designing**
+- **Vector Designing**
+- **Photoshop**
+
+---
+
+<a name="others"></a>
+
+## Others
+
 - **Calculus / Linear Algebra**
 - **DirectX/OpenGL**
 - **Machine Learning**
 - **Hardware Interfacing**
-- **ORM**
-- **Cordova**
-- **Jinja 2**
-- **Rest**
-- **3D Designing**
-- **Vector Designing**
-- **Game Development**
-- **Android Development**
-- **IOS Development**
 - **Data Science**
-- **Full Stack**
-- **System Administration**
 
 ---
