@@ -83,7 +83,7 @@
 
 <a name="devs"></a>
 
-## Development
+## :diamond_shape_with_a_dot_inside: Development
 
 - **Game Development**
 - **Android Development**
@@ -95,7 +95,7 @@
 
 <a name="Designing"></a>
 
-## Designing
+## :diamond_shape_with_a_dot_inside: Designing
 
 - **3D Designing**
 - **Vector Designing**
