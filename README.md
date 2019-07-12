@@ -23,10 +23,10 @@
 
 - **Multithreading**
 - **Transactions (db)**
-- **Multiprocess App**
+- **Multiprocessing**
 - **Exception Handling**
 - **Logging**
-- **3rd Party Libs**
+- **Third Party Libraries**
 - **Design Patterns**
 - **Testing**
 - **Regular Expression**
@@ -51,7 +51,7 @@
 - **C/C++**
 - **Bash**
 - **JavaScript**
-- **JQuery/Ajax**
+- **jQuery/AJAX**
 - **MySQL**
 - **TypeScript**
 - **LaTeX**
@@ -62,13 +62,13 @@
 
 ## :diamond_shape_with_a_dot_inside: Web Development
 
-- **NodeJS**
+- **Node.js**
 - **WordPress**
-- **Cake PHP/ Laravel/ Django**
+- **CakePHP/Laravel/Django**
 - **Full Stack**
 - **Oracle**
 - **Redis**
-- **Rest**
+- **REST**
 
 ---
 
@@ -90,7 +90,7 @@
 - **Ansible**
 - **MySQL Client-Server Application**
 - **Reverse Proxy**
-- **Security**
+- **Network Security**
 
 ---
 
@@ -100,9 +100,9 @@
 
 - **Game Development**
 - **Android Development**
-- **IOS Development**
-- **Cordova**
-- **Jinja 2**
+- **iOS Development**
+- **Cordova/Ionic**
+- **Jinja2**
 
 ---
 
@@ -120,10 +120,10 @@
 
 ## :diamond_shape_with_a_dot_inside: J2EE - Java 2 Enterprise Edition
 
-- **TOMCAT**
+- **Apache Tomcat**
 - **Spring Framework**
 - **Message Passing**
-- **ORM Hibernate**
+- **Hibernate**
 - **Reverse Proxy**
 
 ---
@@ -132,7 +132,7 @@
 
 ## :diamond_shape_with_a_dot_inside: Mathematics & Others
 
-- **Calculus / Linear Algebra**
+- **Calculus/Linear Algebra**
 - **Blockchain**
 - **DirectX/OpenGL**
 - **Machine Learning**
