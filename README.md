@@ -80,6 +80,14 @@
 - **Git, SVN, VCS**
 - **SSH**
 - **Cloud Computing (AWS)**
+- **Apache2/NGINX**
+- **Asterisks**
+- **Monit**
+- **Chef**
+- **Puppet**
+- **Docker**
+- **Proftpd**
+- **Ansible**
 - **Security**
 
 ---
@@ -107,7 +115,8 @@
 ---
 
 <a name="j2ee">
-## J2EE - Java 2 Enterprise Edition
+
+## :diamond_shape_with_a_dot_inside: J2EE - Java 2 Enterprise Edition
 
 - **TOMCAT**
 - **Spring Framework**
@@ -119,9 +128,10 @@
 
 <a name="others"></a>
 
-## Mathematics & Others
+## :diamond_shape_with_a_dot_inside: Mathematics & Others
 
 - **Calculus / Linear Algebra**
+- **Blockchain**
 - **DirectX/OpenGL**
 - **Machine Learning**
 - **Hardware Interfacing**
