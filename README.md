@@ -11,7 +11,7 @@
 
 <a name="programming-skills"></a>
 
-## Programming Skills That Everyone Should Have:
+## :diamond_shape_with_a_dot_inside: Programming Skills That Everyone Should Have:
 
 - **Multithreading**
 - **Transactions (db)**
