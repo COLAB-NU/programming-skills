@@ -34,11 +34,9 @@
 
 ---
 
-<a content="things-to-know"></a>
+## :diamond_shape_with_a_dot_inside: Programming Languages:
 
-## :diamond_shape_with_a_dot_inside: Things To Know:
-
-<a content="languages"></a>
+<a name="languages"></a>
 
 - **Java**
 - **Python**
@@ -51,7 +49,9 @@
 - **TypeScript**
 - **LaTeX**
 
-  <a content="web-dev"></a>
+## Web Development
+
+<a name="web-dev"></a>
 
 - **NodeJS**
 - **WordPress**
