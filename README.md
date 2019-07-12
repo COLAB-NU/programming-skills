@@ -1,17 +1,21 @@
 ![Blank](https://github.com/COLAB-NU/programming-skills/blob/master/imgs/colab)
 
-# Programming Skills That Everyone Should Have
+---
 
 ## Table Of Contents:
 
 <a name="contents"></a>
 
-- [Programming Skills](#programming-skills)
+- [Programming Concepts](#programming-skills)
 - [Things to Know](#things-to-know)
+  - [Programming Languages](#languages)
+  - [Web Development](#web-dev)
+
+---
 
 <a name="programming-skills"></a>
 
-## :diamond_shape_with_a_dot_inside: Programming Skills That Everyone Should Have:
+## :diamond_shape_with_a_dot_inside: Programming Concepts:
 
 - **Multithreading**
 - **Transactions (db)**
@@ -28,38 +32,45 @@
 - **Task Runners**
 - **Configuration Files**
 
+---
+
 <a content="things-to-know"></a>
 
-## Things To Know:
+## :diamond_shape_with_a_dot_inside: Things To Know:
+
+<a content="languages"></a>
 
 - **Java**
 - **Python**
 - **PHP**
 - **C/C++**
+- **Bash**
 - **JavaScript**
 - **JQuery/Ajax**
 - **MySQL**
-- **Oracal**
+- **TypeScript**
+- **LaTeX**
+
+  <a content="web-dev"></a>
+
+- **NodeJS**
+- **WordPress**
+- **Oracle**
+- **Redis**
 - **Photoshop**
 - **Linux**
 - **Git, SVN, VCS**
-- **Bash**
 - **SSH**
 - **Security**
 - **Cake PHP/ Laravel/ Django**
 - **Calculus / Linear Algebra**
 - **DirectX/OpenGL**
-- **WordPress**
 - **Machine Learning**
 - **Hardware Interfacing**
-- **NodeJS**
-- **TypeScript**
 - **ORM**
 - **Cordova**
 - **Jinja 2**
-- **Redis**
 - **Rest**
-- **LaTeX**
 - **3D Designing**
 - **Vector Designing**
 - **Game Development**
@@ -68,3 +79,5 @@
 - **Data Science**
 - **Full Stack**
 - **System Administration**
+
+---
