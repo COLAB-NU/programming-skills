@@ -6,12 +6,12 @@
 
 <a name="contents"></a>
 
-- [Programming Concepts](#programming-skills)
-- Things to Know
-  - [Programming & Markup Languages](#languages)
-  - [Web Development](#web-dev)
-  - [System Administration](#sys-admin)
-  - [Development](#devs)
+- [**Programming Concepts**](#programming-skills)
+- **Things to Know**
+  - [**Programming & Markup Languages**](#languages)
+  - [**Web Development**](#web-dev)
+  - [**System Administration**](#sys-admin)
+  - [**Development**](#devs)
   - [Others](#others)
 
 ---
@@ -112,5 +112,6 @@
 - **Machine Learning**
 - **Hardware Interfacing**
 - **Data Science**
+- **Probability**
 
 ---
