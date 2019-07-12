@@ -1,2 +1,3 @@
-# programming-skills
-Programming skils that everyone should have
+# Programming Skills That Everyone Should Have
+
+- Table Of Contents
