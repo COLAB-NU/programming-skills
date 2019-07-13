@@ -65,7 +65,6 @@
 - **NodeJS**
 - **WordPress**
 - **Cake PHP/ Laravel/ Django**
-- **Full Stack**
 - **Oracle**
 - **Redis**
 - **Rest**
